@@ -44,14 +44,6 @@ Para ejecutar este proyecto, asegúrate de tener instalados los siguientes requi
 2. Utiliza los archivos `.ui` con Qt Designer para modificar o personalizar las interfaces.
 3. Asegúrate de que la base de datos esté configurada correctamente antes de ejecutar los scripts.
 
-## Contribución
-
-Si deseas contribuir a este proyecto:
-1. Realiza un fork del repositorio.
-2. Crea una nueva rama para tus modificaciones: `git checkout -b nueva-funcionalidad`.
-3. Haz commit de tus cambios y súbelos: `git push origin nueva-funcionalidad`.
-4. Abre un Pull Request para revisión.
-
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
