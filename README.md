@@ -1,5 +1,5 @@
 
-# Proyecto de Gestión de Inventarios
+# Proyecto de Gestión de Inventarios y Citas
 
 Este proyecto consiste en una aplicación para gestionar inventarios y citas, utilizando interfaces gráficas diseñadas con Qt y un cuaderno de Jupyter para ejecutar código Python. Además, incluye un archivo SQL para la gestión de la base de datos.
 
@@ -12,9 +12,9 @@ Este proyecto consiste en una aplicación para gestionar inventarios y citas, ut
   - `nueva_cita.ui`: Formulario para agregar una nueva cita.
   - Otros archivos `.ui` para diversas funcionalidades.
 
-- **`Proyecto.ipynb`**: Cuaderno de Jupyter que contiene el código Python para interactuar con la base de datos y posiblemente otros procesos relacionados con la gestión del inventario.
+- **`Proyecto.ipynb`**: Cuaderno de Jupyter que contiene el código Python para interactuar con la base de datos y posiblemente otros procesos relacionados con la gestión del inventario y la gestión de las citas
 
-- **`proyecto.sql`**: Archivo SQL que define la estructura de la base de datos o contiene instrucciones para manipular los datos.
+- **`proyecto.sql`**: Archivo SQL que define la estructura de la base de datos o contiene instrucciones para manipular los datos, además a partir de esto se puede establecer la entidad-reación.
 
 ## Requisitos
 
@@ -27,8 +27,8 @@ Para ejecutar este proyecto, asegúrate de tener instalados los siguientes requi
 
 ## Instalación
 
-1. Clona este repositorio o descarga los archivos directamente.
-2. Instala las dependencias necesarias para Python.
+1. C este repositorio o descarga los archivos directamente.
+2. Instala las dependencias y bibliotecas necesarias para Python.
    ```bash
    pip install PyQt5 jupyter
    ```
@@ -60,5 +60,5 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para má
 
 Para más información, puedes contactarme en:
 
-- **Autor**: [Tu Nombre]
-- **Correo**: tu_email@ejemplo.com
+- **Autores**: [Amanda Canales, Milena Pinochet, María Fernanda Ramírez y Anaís Salas]
+- **Correos**: amanda.canales@usm.cl, milena.pinochet@usm.cl, maria.ramirezb@usm.cl y anais.salas@usm.cl
